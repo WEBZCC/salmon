@@ -1,0 +1,25 @@
+{
+  "description": "Grizzly bears eat salmon",
+  "name": "grizzlyware/salmon",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "authors":
+  [
+    {
+      "name": "Grizzlyware Ltd",
+      "email": "contact@grizzlyware.io"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require":
+  {
+    "php": ">=5.3.0"
+  },
+  "autoload":
+  {
+    "psr-4":
+    {
+      "Grizzlyware\\Salmon\\": "src/Grizzlyware/Salmon"
+    }
+  }
+}
