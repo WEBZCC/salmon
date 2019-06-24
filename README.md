@@ -1,1 +1,1 @@
-<p align="center"><img src="https://raw.githubusercontent.com/grizzlyware/salmon/master/assets/images/salmon_splash" alt="drawing" /></p>
+<p align="center"><img src="./assets/images/salmon_splash.svg" alt="drawing" /></p>
