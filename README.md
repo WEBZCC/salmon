@@ -1,1 +1,1 @@
-<p align="center"><img src="./assets/images/salmon_splash.svg" alt="drawing" /></p>
+<p align="center"><img src="./assets/images/salmon_splash.svg" alt="Salmon splash image" width="80%" /></p>
